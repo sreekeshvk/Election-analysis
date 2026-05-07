@@ -1,0 +1,23 @@
+# --- Security & Config ---
+.env
+
+# --- Virtual Environments ---
+tn_election_env/
+venv/
+env/
+
+# --- Python & Notebooks ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+# This ignores the hidden 'checkpoints' folder created by Jupyter
+*/.ipynb_checkpoints/*
+
+# --- Data & Logs ---
+data/*.csv
+data/*.json
+*.log
+
+# --- Editor Specific ---
+.vscode/
+.DS_Store
