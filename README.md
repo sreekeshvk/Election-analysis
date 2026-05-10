@@ -1,2 +1,3 @@
 # Election-analysis
-Election analysis platform
+Election analysis sample code
+ 
